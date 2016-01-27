@@ -13,8 +13,8 @@ Populates graph from specially formatted given txt file. Each profile has their 
   NAME\<email\>(educational institutes):friend's_email
   
   ex: 
-    Dr. Evil<dr@evil.net>(Queen's University,University of Waterloo,Evil Medical School):hl@imaeatchu.com
-    Hannibal Lecter<hl@imaeatchu.com>(Evil Medical School,School of Hard Knocks):dr@evil.net
+    Dr. Evil\<dr@evil.net\>(Queen's University,University of Waterloo,Evil Medical School):hl@imaeatchu.com
+    Hannibal Lecter\<hl@imaeatchu.com\>(Evil Medical School,School of Hard Knocks):dr@evil.net
     
   Note: it is possible for a person to be friends with someone but that friend is not friends them back
   
