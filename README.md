@@ -23,7 +23,8 @@ This program can:
   2) Find the degree between profiles (or infinite if to self)
     - however can't work when searching for a path that doesn't exist
   3) List all people exactly "n" people away
-  4) List mutual friends between 2 people
+  4) List mutual friends between 2 people (empty if no mutual friends)
   5) Make friend suggestions based on mutal friends
   6) List people with similar educational institutions with "n" depth
+    - however doesn't work with depth 1
   
