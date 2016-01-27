@@ -10,7 +10,7 @@ Instructions:
 Graph based social media simulator implemented in Python 3. 
 Populates graph from specially formatted given txt file. Each profile has their information stored on their own line (new lines separate profiles) with the following format:
 
-  NAME<email>(educational institutes):friend's_email
+  NAME\<email\>(educational institutes):friend's_email
   
   ex: 
     Dr. Evil<dr@evil.net>(Queen's University,University of Waterloo,Evil Medical School):hl@imaeatchu.com
